@@ -9,12 +9,12 @@ This calendar app for scheduling your work day was designed to enhance my skills
 * Moment.js
 
 ## Site Location
-
+[Work Day Scheduler]()
 
 ## Contribution
 Made by [Shannon Dukes]
 
 ## Site Image
-
+![Work Day Scheduler](assets/img/work-day-scheduler-img.png)
 
 ### ©️2021 Shannon Dukes
